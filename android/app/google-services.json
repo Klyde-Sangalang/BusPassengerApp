@@ -1,0 +1,154 @@
+{
+  "project_info": {
+    "project_number": "206785221130",
+    "project_id": "smart-bus-system-701ec",
+    "storage_bucket": "smart-bus-system-701ec.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206785221130:android:ea20a89c7f34d989b5c5f3",
+        "android_client_info": {
+          "package_name": "com.example.bussystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206785221130-1c28ms50r7dmgmlneohva641upnp36e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcduinin5GM-2mh8AXH6OGKHWtq-NUG6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206785221130-1c28ms50r7dmgmlneohva641upnp36e8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "206785221130-j8jtlr1tiu6v38jh1q7pjfoj8qedsfqn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bussystem"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206785221130:android:07ac98c5fa427e27b5c5f3",
+        "android_client_info": {
+          "package_name": "com.example.smart_bus_alert"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206785221130-1c28ms50r7dmgmlneohva641upnp36e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcduinin5GM-2mh8AXH6OGKHWtq-NUG6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206785221130-1c28ms50r7dmgmlneohva641upnp36e8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "206785221130-j8jtlr1tiu6v38jh1q7pjfoj8qedsfqn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bussystem"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206785221130:android:bb74f9a8b537b1f0b5c5f3",
+        "android_client_info": {
+          "package_name": "com.example.smart_bus_alert_passenger_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206785221130-1c28ms50r7dmgmlneohva641upnp36e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcduinin5GM-2mh8AXH6OGKHWtq-NUG6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206785221130-1c28ms50r7dmgmlneohva641upnp36e8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "206785221130-j8jtlr1tiu6v38jh1q7pjfoj8qedsfqn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bussystem"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206785221130:android:57c0fcdead794314b5c5f3",
+        "android_client_info": {
+          "package_name": "com.example.smartbus_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206785221130-1c28ms50r7dmgmlneohva641upnp36e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcduinin5GM-2mh8AXH6OGKHWtq-NUG6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206785221130-1c28ms50r7dmgmlneohva641upnp36e8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "206785221130-j8jtlr1tiu6v38jh1q7pjfoj8qedsfqn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bussystem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

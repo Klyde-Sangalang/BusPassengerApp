@@ -1,17 +1,39 @@
-# smart_bus_alert_passenger_app
+BusPassengerApp
 
-A new Flutter project.
+A Flutter application that allows passengers to track bus locations in real time—helping users know where their bus is and when it’s arriving.
 
-## Getting Started
+**About**
 
-This project is a starting point for a Flutter application.
+BusPassengerApp is a cross-platform Flutter app designed to enhance public transportation experiences by providing real-time bus location tracking. The app uses GPS-enabled devices to monitor bus positions and shares those updates with passengers so they can minimize wait times and ride more confidently.
 
-A few resources to get you started if this is your first Flutter project:
+**Features**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Live bus tracking: View current bus location on a map interface.
+Estimated arrival times: Get real-time forecasts of when your bus will arrive.
+Cross-platform support: Compatible with iOS and Android.
+Lightweight and responsive: Designed for seamless performance across devices.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# BusPassengerApp
+**Usage**
+
+Allow location access when prompted.
+Select your preferred bus route or line.
+View real-time updates on the map.
+Set an alert or notification for when your bus is approaching.
+
+**Contributing**
+
+Contributions are welcome! Here's how you can help:
+
+Fork the repo
+Create a feature branch (git checkout -b feature/new-feature)
+Make your enhancements or fixes
+Commit your changes (git commit -m "Add new feature")
+Push to your branch (git push origin feature/new-feature)
+Open a Pull Request for review
+
+License
+This project is licensed under the MIT License.
+
+Contact
+Created by Klyde Sangalang.
+Open an issue on this repo for feedback or suggestions.

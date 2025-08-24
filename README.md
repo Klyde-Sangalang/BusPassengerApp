@@ -1,4 +1,4 @@
-BusPassengerApp
+**BusPassengerApp**
 
 A Flutter application that allows passengers to track bus locations in real time—helping users know where their bus is and when it’s arriving.
 
@@ -31,9 +31,9 @@ Commit your changes (git commit -m "Add new feature")
 Push to your branch (git push origin feature/new-feature)
 Open a Pull Request for review
 
-License
+**License**
 This project is licensed under the MIT License.
 
-Contact
+**Contact**
 Created by Klyde Sangalang.
 Open an issue on this repo for feedback or suggestions.
